@@ -1,0 +1,15 @@
+D:\HW_GDM222\khor3\bin\Debug\net6.0\khor3.exe
+D:\HW_GDM222\khor3\bin\Debug\net6.0\khor3.deps.json
+D:\HW_GDM222\khor3\bin\Debug\net6.0\khor3.runtimeconfig.json
+D:\HW_GDM222\khor3\bin\Debug\net6.0\khor3.dll
+D:\HW_GDM222\khor3\bin\Debug\net6.0\khor3.pdb
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.csproj.AssemblyReference.cache
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.GeneratedMSBuildEditorConfig.editorconfig
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.AssemblyInfoInputs.cache
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.AssemblyInfo.cs
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.csproj.CoreCompileInputs.cache
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.dll
+D:\HW_GDM222\khor3\obj\Debug\net6.0\refint\khor3.dll
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.pdb
+D:\HW_GDM222\khor3\obj\Debug\net6.0\khor3.genruntimeconfig.cache
+D:\HW_GDM222\khor3\obj\Debug\net6.0\ref\khor3.dll
